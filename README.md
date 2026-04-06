@@ -25,7 +25,6 @@ Core interests: distributed systems · telecom infrastructure · simulation syst
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 `HLA Federation` &nbsp;`PitchRTI` &nbsp;`OneArc` &nbsp;`SKF Framework` &nbsp;`4G/5G Wireless` &nbsp;`Backbone Networks`
