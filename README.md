@@ -1,0 +1,43 @@
+# Pedro Scomparim
+
+**Computer Engineering · FACENS** &nbsp;·&nbsp; **Telecom Intern @ Huawei BRDC** &nbsp;·&nbsp; **NASA-SEE 2026**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-phsdias-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/phsdias)
+[![Email](https://img.shields.io/badge/Email-2007pedrodias@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:2007pedrodias@gmail.com)
+![Location](https://img.shields.io/badge/Sorocaba,_SP-Brazil-009c3b?style=flat-square)
+
+---
+
+Computer Engineering student with hands-on experience in **telecommunications infrastructure** (Huawei BRDC) and **distributed simulation systems** (NASA-SEE 2026). Currently supporting 4G/5G wireless site configuration, network fault diagnosis, and backbone operations — while contributing to a federated HLA simulation of a lunar autonomous cargo rover in collaboration with University of Central Florida (USA) and Brunel University London (UK).
+
+Core interests: distributed systems · telecom infrastructure · simulation systems · low-level computing
+
+---
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Tools & Stack**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+`HLA Federation` &nbsp;`PitchRTI` &nbsp;`OneArc` &nbsp;`SKF Framework` &nbsp;`4G/5G Wireless` &nbsp;`Backbone Networks`
+
+---
+
+**Featured Projects**
+
+**[SEE-FACENS](https://github.com/FlaSpaceInst/SEE-FACENS)** — NASA-SEE 2026 · Lunar autonomous cargo rover simulation using HLA federated architecture. Responsible for federate integration, distributed event synchronization, and cross-team coordination with UCF and Brunel Spaceport.  
+`Java` `PitchRTI` `HLA` `AWS Bedrock`
+
+**[TrashTrack](https://github.com/Lylica/trashTrack)** — IoT urban waste monitoring system with real-time sensor data visualization.  
+`JavaScript` `Chart.js` `ThingSpeak`
+
+---
