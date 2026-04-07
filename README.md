@@ -22,12 +22,9 @@ Computer Engineering student with hands-on experience in **telecommunications in
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedroscomparim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroscomparim&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroscomparim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/pedroscomparim)
+&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroscomparim&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/pedroscomparim)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pedroscomparim&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
@@ -56,7 +53,7 @@ Computer Engineering student with hands-on experience in **telecommunications in
 
 ## Featured Projects
 
-**SEE-FACENS** — NASA-SEE 2026 · *Private Repository*
+**SEE-FACENS** — NASA-SEE 2026 · *Private Repository*  
 Lunar autonomous cargo rover simulation using HLA federated architecture. Responsible for federate integration, distributed event synchronization, and cross-team coordination with UCF and Brunel Spaceport.  
 `Java` `PitchRTI` `HLA` `AWS Bedrock`
 
