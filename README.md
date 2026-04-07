@@ -22,10 +22,6 @@ Computer Engineering student with hands-on experience in **telecommunications in
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroscomparim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/pedroscomparim)
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroscomparim&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/pedroscomparim)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=pedroscomparim&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
